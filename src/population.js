@@ -7,7 +7,7 @@ export const populationData = {
             label: "indian population",
             type: "bar",
             data: [88, 78, 89, 66],
-            backgroundColor: ['black', 'red', 'green', 'orange', 'blue'],
+            backgroundColor: ['black', 'red', 'green', 'orange'],
             borderColor: "#47b784",
             borderWidth: 3
         }]
